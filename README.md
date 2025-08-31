@@ -1,4 +1,4 @@
-# Random Password Generator
+# Random Password Generato
 
 A secure, user-friendly Python application that generates cryptographically strong passwords with customizable options. This tool uses Python's `secrets` module to ensure maximum security and unpredictability in password generation.
 
